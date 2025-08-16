@@ -1,6 +1,9 @@
 # 1stPCB-DualAxisSolarTracker
-This repository documents my first steps into the exciting world of Printed Circuit Board (PCB) design using KiCad. Inspired by my previous Arduino-based dual-axis solar tracking system (which, let's be honest, was a glorious wire mess 😅), I decided to dedicate my college break to learning how to create professional-looking and functional circuits.
+This repository documents my first steps into the exciting world of Printed Circuit Board (PCB) design using KiCad. Inspired by my previous Arduino-based dual-axis solar tracking system (which, let's be honest, was a glorious wire mess 😅), 
+I decided to dedicate my college break to learning how to create professional-looking and functional circuits.
+
 🚀 What's Inside?
+
 This project captures my learning journey through the fundamental stages of PCB design:
 
 Schematic Design: The logical representation of the circuit, detailing how components are connected.
